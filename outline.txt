@@ -1,0 +1,11 @@
+1. Abstract
+2. Problem: Verifiable Vote Casting
+  i. Block Chain
+  ii. Encryption of internet packets
+3. 1:1 Voting
+  i. Hashing biometric
+  ii. Other 1:1 voting solutions
+4. Tabulation Methods
+ i. First-past-the-post is terrible
+ ii. proportional voting
+ iii. Single transferrable voting
